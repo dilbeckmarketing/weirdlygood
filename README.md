@@ -1,0 +1,2 @@
+# weirdlygood
+GitHub Pages
