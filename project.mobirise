@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-09_2349",
+    "name": "Weirdly Good Guide - A",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -18,7 +18,13 @@
     },
     "versionFirst": "4.6.7",
     "uniqCompNum": 2,
-    "versionPublish": "4.6.7"
+    "versionPublish": "4.8.3",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -52,8 +58,8 @@
             "overlayOpacity": 0.75,
             "showIcons": true,
             "iconsColor": "#fff",
-            "icon1": "fa-bolt",
-            "icon2": "fa-magnet"
+            "icon1": "fa-check",
+            "icon2": "fa-check"
           },
           "title": "Get the Guide",
           "title1": "Weirdly Good Guide to Success in Real Estate",
