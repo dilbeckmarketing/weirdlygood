@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Weirdly Good Guide - A",
+    "name": "Weirdly Good Guide Final",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -21,7 +21,7 @@
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3909-128x128.png",
     "noImageResize": "",
     "siteUrl": "undefined",
     "siteFonts": []
