@@ -18,7 +18,7 @@
     },
     "versionFirst": "4.6.7",
     "uniqCompNum": 2,
-    "versionPublish": "4.8.3",
+    "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-3909-128x128.png",
@@ -128,7 +128,7 @@
             }
           },
           "title1": "Dilbeck real estate",
-          "text1": "A family owned real estate company helping neighbors create new beginnings and lasting memories throughout SoCal since 1950.<br><br>",
+          "text1": "A family owned real estate company helping neighbors create new beginnings and lasting memories throughout SoCal since 1950.<br>License: 01345642<br><br>",
           "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a>   <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
           "text2": "Working Hours:<br>Mon - Fri &nbsp; 9AM - 6PM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
