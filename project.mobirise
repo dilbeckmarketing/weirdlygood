@@ -24,7 +24,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/img-3909-128x128.png",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "siteFonts": []
+    "siteFonts": [],
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-2594538-10\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-2594538-10');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
@@ -72,7 +73,7 @@
             "title": "MESSAGE",
             "action": "ashleydray3@gmail.com",
             "alerts": {
-              "success": "Congrats! You’re almost ready to get weirdly good at real estate.\n\nView and download your guide at Dilbeck.com/GoodGuide.\n\nIf you have any questions about becoming a luxury real estate agent or careers at Dilbeck Real Estate reach out to us anytime at info@dilbeck.com.\n\nAll the best and good luck!\nThe Dilbeck Real Estate Team"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
